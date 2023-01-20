@@ -1,4 +1,4 @@
 all: 
 	clear 
-	pip install -U -r req.txt 
-	python3 qmix.py 
+	pip3 install -U -r req.txt 
+	python3 test.py 
